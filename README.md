@@ -1,0 +1,1 @@
+# globe-and-mail-anti-adblock-killer
