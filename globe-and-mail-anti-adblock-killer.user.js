@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         The Globe and Mail Anti-Adblock Killer
-// @namespace    https://openuserjs.org/scripts/DaTechNinja/
+// @namespace    https://openuserjs.org/scripts/DaTechNinja/The_Globe_and_Mail_Anti-Adblock_Killer
 // @description  This user script disables the annoying anti Ad-block message on The Globe and mail website and allows you to read the article
 // @author       DaTechNinja
-// @version      0.0.0
+// @version      1.0.0
 // @encoding     utf-8
 // @license      https://raw.githubusercontent.com/DaTechNinja/globe-and-mail-anti-adblock-killer/master/LICENSE
 // @icon         https://raw.githubusercontent.com/DaTechNinja/globe-and-mail-anti-adblock-killer/master/favicon.ico
